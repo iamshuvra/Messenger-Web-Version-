@@ -1,8 +1,12 @@
 # Messenger(Web Version)
-### Use Case Diagram
+### _**Use Case Diagram**_
+
 ![use case diagram](Images/use-case.jpg)
+
 ### ER Diagram
+
 ![ER Diagram](Images/ER.png)
+
 ### Class Diagram
 ![Class Diagram](Images/class.jpg)
 ### Data Flow Diagram
