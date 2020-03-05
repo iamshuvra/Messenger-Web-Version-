@@ -11,8 +11,8 @@ Facebook Messenger.
 We have looked at these apps for feature ideas as well as some design knowledge. We have also tried to analyze pre-existing features and try to improve on them or to complement them.
  
 ## **Sources:**
-   	[WhatsApp](https://en.wikipedia.org/wiki/WhatsApp)
-   	[Facebook Manager](https://en.wikipedia.org/wiki/Facebook_Messenger)
+   	[WhatsApp][https://en.wikipedia.org/wiki/WhatsApp]
+   	[Facebook Manager][https://en.wikipedia.org/wiki/Facebook_Messenger]
  
  
 ## **Requirement Analysis: **
