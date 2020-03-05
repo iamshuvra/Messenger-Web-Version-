@@ -11,8 +11,8 @@ Facebook Messenger.
 We have looked at these apps for feature ideas as well as some design knowledge. We have also tried to analyze pre-existing features and try to improve on them or to complement them.
  
 ## **Sources:**
-1.  	https://en.wikipedia.org/wiki/WhatsApp
-2.  	https://en.wikipedia.org/wiki/Facebook_Messenger
+1.  	![Wikipedia|Whatsapp](https://en.wikipedia.org/wiki/WhatsApp)
+2.  	![Wikipedia|Facebook Messenger](https://en.wikipedia.org/wiki/Facebook_Messenger)
  
  
 ## **Requirement Analysis: **
