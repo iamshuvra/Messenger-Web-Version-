@@ -3,6 +3,9 @@
 The world is becoming smaller and smaller day by day because of the global village. By using this application, any user will be able to connect with their friends and family anytime. They can send the message in groups also. Nowadays people want to communicate with another easily that’s why we want to prepare this application.
  
  [I'm an inline-style link](https://www.google.com)
+ 	[WhatsApp](https://www.wikipedia.org)
+   	[WhatsApp](https://www.wikipedia.org/WhatsApp)
+
 
  
 ## **Background Study**
@@ -14,8 +17,11 @@ Facebook Messenger.
 We have looked at these apps for feature ideas as well as some design knowledge. We have also tried to analyze pre-existing features and try to improve on them or to complement them.
  
 ## **Sources:**
-   	[WhatsApp](https://wikipedia.org/wiki/WhatsApp]
-   	[Facebook Manager][https://en.wikipedia.org/wiki/Facebook_Messenger]
+     	[WhatsApp](https://www.wikipedia.org)
+
+   	   	[WhatsApp](https://www.wikipedia.org/WhatsApp)
+
+   	[Facebook Manager](https://www.wikipedia.org/wiki/Facebook_Messenger)
  
  
 ## **Requirement Analysis: **
