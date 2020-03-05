@@ -6,6 +6,7 @@ The world is becoming smaller and smaller day by day because of the global villa
 
 ### Limitations and Possible Future Improvements
 
+The time period for this project is very short. So it has many limitations and scopes for future improvements. First of all, here we haven't added the video calling system which will be implemented in the near future. We haven't used artificial intelligence here which will be added to cope up with the future. And we are planning to add my story/day, a news feed, chatbot and so on. And day by day, the privacy of the users will be enhancing.
 
 
 
