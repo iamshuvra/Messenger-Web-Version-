@@ -1,5 +1,6 @@
 # Messenger(Web Version)
-
+### Use Case Diagram
+![use case diagram] (Images/use-case.jpg)
 ### Impact of This Project
 
 The world is becoming smaller and smaller day by day because of the global village. By using this application, any user will be able to connect with their friends and family anytime. It has much privacy that they will be able to send their important information via this application. The users will be able to send any types of files, emoji and so on. They can find new friends which will enhance their networking and for the privacy issue, they will be able to block other users.
